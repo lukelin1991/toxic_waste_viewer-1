@@ -1,0 +1,13 @@
+{
+  "name": "toxic_waste_viewer",
+  "version": "1.0.0",
+  "description": "a visual viewer of toxic waste data across the US",
+  "main": "manage.py",
+  "author": "Tim Knab, Luke Lin",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.1.0",
+    "jquery": "3.2.1",
+    "popper.js": "^1.14.3"
+  }
+}
